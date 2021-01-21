@@ -3,8 +3,7 @@
 ***Project***
 -----------------------
 This is an application that generates procedurally caves with a GUI that is presenting 
-the seed the width and the height of the map that is created. This application is a part of 
-my research project on How Procedural Content Generation is used, for my Bachelors thesis project.
+the seed the width and the height of the map that is created. 
 
 ***Idea***
 ------------------------
